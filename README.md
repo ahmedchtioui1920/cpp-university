@@ -5,7 +5,7 @@ It includes various assignments and exercises focused on learning core C++ progr
 
 ---
 
-## 📂 Contents
+## 📂 
 
 - `sort/` – A folder with multiple sorting algorithm implementations
 - Other files – Standalone C++ programs covering a range of basic to intermediate topics such as arrays, functions, pointers, conditionals, and loops
