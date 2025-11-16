@@ -1,24 +1,41 @@
-# 🧮 C++ Praktikum – University Code Collection
+# 🧮 C++-Praktikum – Universität: Algorithmen & Datenstrukturen
 
-This repository contains C++ code written during university practical sessions (Praktikum).  
-It includes various assignments and exercises focused on learning core C++ programming concepts.
-
----
-
-## 📂 Contents
-
-- `sort/` – A folder with multiple sorting algorithm implementations
-- Other files – Standalone C++ programs covering a range of basic to intermediate topics such as arrays, functions, pointers, conditionals, and loops
+Dieses Repository umfasst C++-Programme, die im Rahmen des DAP2-Praktikums an der Universität entwickelt wurden.  
+Es enthält verschiedene Programmieraufgaben und Übungen zur Vertiefung grundlegender Konzepte der Programmierung, Algorithmen und Datenstrukturen.
 
 ---
 
-## 🎯 Purpose
+## 📂 Inhalt
 
-This repository serves as a personal archive of C++ practicum code from university, intended for study, review, and future reference.
+### **`sort/`**
+Implementierungen klassischer Sortieralgorithmen, darunter:
+- Selection Sort  
+- Insertion Sort  
+- Bubble Sort  
+- Merge Sort  
+- Quick Sort  
+
+### **Weitere Programme**
+Zusätzlich finden sich verschiedene eigenständige C++-Dateien zu grundlegenden Themen der Programmierung, z. B.:
+- Arrays und Schleifen  
+- Funktionen  
+- Zeiger (Pointer)  
+- Kontrollstrukturen  
+- Einfache Algorithmik-Übungen  
 
 ---
 
-## 📌 Note
+## 🎯 Zweck des Repositories
 
-All code is educational in nature and written as part of coursework or lab assignments.  
-Not intended for reuse in academic settings without proper understanding.
+Dieses Repository dient als:
+- persönliche Sammlung von Praktikums- und Übungscodes  
+- Lern- und Wiederholungsgrundlage für Klausuren und spätere Projekte  
+- Referenz für grundlegende Algorithmen und deren Implementierung in C++  
+
+---
+
+## 📌 Hinweis
+
+Der enthaltene Code wurde ausschließlich zu Lernzwecken im Rahmen des universitären Praktikums erstellt.  
+Die Nutzung für akademische Abgaben ohne eigenes Verständnis wird ausdrücklich **nicht empfohlen**.
+
